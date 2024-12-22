@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 1112772606
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 232fa411cbb6ccf5faa4d973e47cb348
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 15d2c824357549df497a81f99fdfe558
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 232fa411cbb6ccf5faa4d973e47cb348
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2eb629fc67d4ed8ad1c5c4dee2a4c29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1794f086ae64ecc4c9b157c947afea04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 152e0471078aff449bb08e7e062956a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/Assets/LightSource-Lantern-Simple.asset
+- Assets/Project/Assets/Resource-Ore-Gold.asset
+- Assets/Project/Assets/Resource-Ore-Silver.asset
+- Assets/Project/Assets/Tool-Pickaxe-Iron.asset
+Dependencies: []
